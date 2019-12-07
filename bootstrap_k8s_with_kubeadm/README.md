@@ -42,11 +42,5 @@ Flannel VXLAN overlay networking on Windows cluster | 4789
 Canal/Flannel livenessProbe/readinessProbe | 9099  
 Weave Port | 6783  
 Weave UDP Ports | 6783-6784  
+
 For other networks check their documentation.  
-
-
-
-
-
-
-
